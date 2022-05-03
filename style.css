@@ -1,0 +1,11 @@
+/* Body */
+
+body {
+    background-color: rgb(179, 204, 196);
+    text-align: center;
+}
+
+.ul {
+    color: brown;
+    font-size: larger;
+}
